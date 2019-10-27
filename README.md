@@ -14,7 +14,7 @@
 We provide pretrained models (all models were trained on a GPU) and data used in the paper. To replicate the results:
 
 ### Step 1:
-Download the all the data and models:  https://drive.google.com/file/d/1CAlEWVsU3k_YApIq-Qqu0ojPx45lw5fh/view?usp=sharing
+Download all the data and models:  https://drive.google.com/file/d/1CAlEWVsU3k_YApIq-Qqu0ojPx45lw5fh/view?usp=sharing
 
 ### Step 2:
 ```
