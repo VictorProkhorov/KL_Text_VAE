@@ -1,5 +1,14 @@
 # On the Importance of the Kullback-Leibler Divergence Term in Variational Autoencoders for Text Generation
 
+## Table of contents
+
+1. [Replicate Results](#replicated-results)
+2. [Usage](#usage)
+3. [Citing](#citing)
+4. [Licence](#licence)
+5. [Contact info](#contact-info)
+
+
 ## Replicate Results
 
 We provide pretrained models (all models were trained on a GPU) and data used in the paper. To replicate the results:
