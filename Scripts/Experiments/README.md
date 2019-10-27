@@ -14,7 +14,7 @@ NOTE: Even though the results in Table 2 and Table 3 are not posible to replicat
 ## Figure 1
 Running this script should allow you to get the results we reported in Figure 1.
 
-Note: we only provide the pretrained models for three values of C= 15, 60 and 100. It should be enough to confirm the tren we report.
+Note: we only provide the pretrained models for three values of C= 15, 60 and 100. It should be enough to confirm the trend we report.
 
 Example: by running the script below one would obtain the results for the VAE (LSTM encoder and CNN decoder) model trained on the Yahoo corpus.
 
