@@ -14,7 +14,9 @@
 We provide pretrained models (all models were trained on a GPU) and data used in the paper. To replicate the results:
 
 ### Step 1:
-Download all the data and models:  https://drive.google.com/file/d/1CAlEWVsU3k_YApIq-Qqu0ojPx45lw5fh/view?usp=sharing
+1. Download all the data and models:  https://drive.google.com/file/d/1CAlEWVsU3k_YApIq-Qqu0ojPx45lw5fh/view?usp=sharing
+
+2. Once downloaded move the folder to the ./KL_Text_VAE directory 
 
 ### Step 2:
 ```
