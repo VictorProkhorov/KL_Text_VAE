@@ -11,7 +11,7 @@ NOTE: Even though the results in Table 2 and Table 3 are not posible to replicat
 5. [Table 4](#Table 4)
 
 
-## Figure 1:
+## Figure 1
 Running this script should allow you to get the results we reported in Figure 1.
 
 Note: we only provide the pretrained models for three values of C= 15, 60 and 100. It should be enough to confirm the tren we report.
@@ -27,7 +27,7 @@ Type for more available options:
 $ python3 experiment_figure_1.py --help
 ```
 
-## Table 1:
+## Table 1
 Running this script should allow you to get the results we reported in Table 1.
 
 Example: by running the script below one would obtain the results for the VAE (LSTM encoder and LSTM decoder) model trained on the CBT corpus.
@@ -43,7 +43,7 @@ $ python3 experiment_table_1.py --help
 
 NOTE: accidentally, in the paper, we swap the rows for the reconstruction experiment between WIKI and WebText corpora.
 
-## Table 2:
+## Table 2
 Running this script should allow you to get the results we reported in Table 2.
 
 Example: by running the script below one would obtain the results for the VAE (LSTM encoder and LSTM decoder) model trained on the CBT corpus.
@@ -56,7 +56,7 @@ Type for more available options:
 $ python3 experiment_table_2.py --help
 ```
 
-## Table 3:
+## Table 3
 Running this script should allow you to get the results we reported in Table 3.
 
 NOTE: This script is still to be developed. But, it allready contains functions that allow to generate artificial corpora.
@@ -66,10 +66,10 @@ Type for more available options:
 $ python3 experiment_table_3.py --help
 ```
 
-## Table 4:
+## Table 4
 Running this script should allow you to get the results we reported in Table 4.
 
-Example: by running the script below one would obtain the results for the VAE (LSTM encoder and LSTM decoder) model trained on the Wiki corpus.
+Example: by running the script below one would obtain the results for the VAE (LSTM encoder and LSTM decoder) model trained on the Wiki corpus with C = 3.
 ```
 $ python3 experiment_table_4.py --C 3
 ```
