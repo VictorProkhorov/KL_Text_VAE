@@ -4,11 +4,11 @@ Here we provide scripts to replicate the results we obtained in the paper.
 NOTE: Even though the results in Table 2 and Table 3 are not posible to replicate (due to the sampling procedure), we still provide the sripts we used to run the experiments. By running these scripts, even with slightly different numbers, one still shall observe a similar pattern presented in the tables.
 ## Table of contents
 
-1. [Figure 1](#Figure 1)
-2. [Table 1](#Table 1)
-3. [Table 2](#Table 2)
-4. [Table 3](#Table 3)
-5. [Table 4](#Table 4)
+1. [Figure 1](#figure-1)
+2. [Table 1](#table-1)
+3. [Table 2](#table-2)
+4. [Table 3](#table-3)
+5. [Table 4](#table-4)
 
 
 ## Figure 1
