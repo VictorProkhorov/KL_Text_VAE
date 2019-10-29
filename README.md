@@ -1,4 +1,4 @@
-# On the Importance of the Kullback-Leibler Divergence Term in Variational Autoencoders for Text Generation[https://arxiv.org/abs/1909.13668]
+# [On the Importance of the Kullback-Leibler Divergence Term in Variational Autoencoders for Text Generation](https://arxiv.org/abs/1909.13668)
 
 ## Table of contents
 
