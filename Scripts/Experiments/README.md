@@ -71,6 +71,7 @@ Running this script should allow you to get the results we reported in Table 4.
 
 Example: by running the script below one would obtain the results for the VAE (LSTM encoder and LSTM decoder) model trained on the Wiki corpus with C = 3.
 ```
+$ mkdir ./Synt_Zs_Mean
 $ python3 experiment_table_4.py --C 3
 ```
 
