@@ -41,14 +41,23 @@ $ python3 model_wngt.py --help
 If you find this material useful in your research, please cite:
 
 ```
-@InProceedings{prokhorov_etal:WNGT2019,
-  author={Victor Prokhorov and Ehsan Shareghi and Yingzhen Li and  Mohammad T. Pilehvar and Nigel Collier},
-  title={On the Importance of the Kullback-Leibler Divergence Term in Variational Autoencoders for Text Generation},
-  booktitle={Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing},
-  year={2019},
-  month={November},
-  address={Hong Kong},
-}  
+@inproceedings{prokhorov-etal-2019-importance,
+    title = "On the Importance of the {K}ullback-{L}eibler Divergence Term in Variational Autoencoders for Text Generation",
+    author = "Prokhorov, Victor  and
+      Shareghi, Ehsan  and
+      Li, Yingzhen  and
+      Pilehvar, Mohammad Taher  and
+      Collier, Nigel",
+    booktitle = "Proceedings of the 3rd Workshop on Neural Generation and Translation",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/D19-5612",
+    doi = "10.18653/v1/D19-5612",
+    pages = "118--127",
+    abstract = "Variational Autoencoders (VAEs) are known to suffer from learning uninformative latent representation of the input due to issues such as approximated posterior collapse, or entanglement of the latent space. We impose an explicit constraint on the Kullback-Leibler (KL) divergence term inside the VAE objective function. While the explicit constraint naturally avoids posterior collapse, we use it to further understand the significance of the KL term in controlling the information transmitted through the VAE channel. Within this framework, we explore different properties of the estimated posterior distribution, and highlight the trade-off between the amount of information encoded in a latent code during training, and the generative capacity of the model.",
+}
 ```
 
 ## Licence
