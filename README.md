@@ -68,5 +68,5 @@ The code in this repository is free software: you can redistribute it and/or mod
 ## Contact info
 
 For questions or more information please use the following:
-* **Email:** vp361@cam.ac.uk 
+* **Email:** victorprokhorov91@gmail.com 
 
